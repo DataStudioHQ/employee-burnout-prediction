@@ -43,20 +43,7 @@ The dataset includes employee profiles and workplace factors:
 | Resource Allocation | Hours allocated per day |
 | Mental Fatigue Score | Stress rating |
 | Burn Rate | Target variable (burnout level) |
-## The Data
 
-The dataset includes employee profiles and workplace factors:
-| Column | Meaning |
-| --- | --- |
-| Employee ID | Unique identifier |
-| Date of Joining | Tenure information |
-| Gender | Employee gender |
-| Company Type | Service‑based vs product‑based |
-| WFH Setup Available | Whether proper remote setup exists |
-| Designation | Seniority level |
-| Resource Allocation | Hours allocated per day |
-| Mental Fatigue Score | Stress rating |
-| Burn Rate | Target variable (burnout level) |
 ## What I Found
 
 - Workload: Higher daily hours strongly correlate with burnout.
